@@ -17,7 +17,7 @@ namespace Dominio
         Pais pais;
         string posicion;
         static int montoReferencia; 
-      
+      // hola dominio
 
         public string NroCamiseta
         {
